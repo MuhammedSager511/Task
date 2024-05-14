@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Task\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.subcategories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Task\\LibrarySystem\\Migrations\\20240514104046_Subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240514104046_Subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\datacontext\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:datacontext\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\migrations\\20240514095402_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:migrations\\20240514095402_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Task\\LibrarySystem\\Migrations\\20240514103908_Subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240514103908_Subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\models\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:models\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\migrations\\20240514095402_createdb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:migrations\\20240514095402_createdb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\librarysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:librarysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|e:\\task\\librarysystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11CA8F8-D5B0-4B2E-B0EA-BDB326521BBD}|LibrarySystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubcategoriesController.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Controllers\\SubcategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubcategoriesController.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Controllers\\SubcategoriesController.cs",
+              "RelativeToolTip": "Controllers\\SubcategoriesController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwEkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:41:28.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.subcategories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.subcategories.sql",
+              "ToolTip": "dbo.subcategories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T10:41:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240514104046_Subcategories.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Migrations\\20240514104046_Subcategories.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514104046_Subcategories.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Migrations\\20240514104046_Subcategories.cs",
+              "RelativeToolTip": "Migrations\\20240514104046_Subcategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:40:47.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240514103908_Subcategories.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Migrations\\20240514103908_Subcategories.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514103908_Subcategories.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Migrations\\20240514103908_Subcategories.cs",
+              "RelativeToolTip": "Migrations\\20240514103908_Subcategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:39:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240514095402_createDb.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Migrations\\20240514095402_createDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514095402_createDb.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Migrations\\20240514095402_createDb.cs",
+              "RelativeToolTip": "Migrations\\20240514095402_createDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:54:02.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\DataContext\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\BookDbContext.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\DataContext\\BookDbContext.cs",
+              "RelativeToolTip": "DataContext\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:41:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subcategories.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Models\\Subcategories.cs",
+              "RelativeDocumentMoniker": "Models\\Subcategories.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Models\\Subcategories.cs",
+              "RelativeToolTip": "Models\\Subcategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:38:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:57:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.authors.sql",
+              "ToolTip": "dbo.authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T10:04:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:57:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:22:14.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.categories.sql",
+              "ToolTip": "dbo.categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T10:04:47.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibrarySystem/True/SqlTable/dbo.books.sql",
+              "ToolTip": "dbo.books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T10:04:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240514095402_createDb.Designer.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Migrations\\20240514095402_createDb.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514095402_createDb.Designer.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Migrations\\20240514095402_createDb.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240514095402_createDb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:00:07.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:53:13.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Task\\LibrarySystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T09:51:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibrarySystem.http",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\LibrarySystem.http",
+              "RelativeDocumentMoniker": "LibrarySystem.http",
+              "ToolTip": "E:\\Task\\LibrarySystem\\LibrarySystem.http",
+              "RelativeToolTip": "LibrarySystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-14T09:51:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:36:40.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\Task\\LibrarySystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "E:\\Task\\LibrarySystem\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:35:23.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
